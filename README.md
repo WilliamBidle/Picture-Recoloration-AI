@@ -1,6 +1,6 @@
 # Picture Recoloration
 
-## Code by: William Bidle, Ilana Zane, Beatrice Liang-Gilman, Abinaya Sivakumar 
+### Code by: William Bidle, Ilana Zane, Beatrice Liang-Gilman, Abinaya Sivakumar 
 
 -When running main.py, you will be prompted to enter the following: <br/>
 o : show the original image <br/>
